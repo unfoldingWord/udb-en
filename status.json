@@ -1,5 +1,11 @@
 {
+  "books_published": [
+    "tit", 
+    "luk", 
+    "rut"
+  ], 
   "date_modified": "20150205", 
+  "lang": "en", 
   "name": "unfoldingWord Dynamic Bible", 
   "slug": "udb", 
   "status": {
