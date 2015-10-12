@@ -9,11 +9,10 @@
 
 
 
-\ms Book One
 \s5
+\ms Book One
 \c 1
-
-
+\p
 \q1
 \v 1 Yahweh is pleased with those who do not do what the wicked people advise them to do,
 \q1 who do not imitate the behavior of sinful people,
@@ -50,6 +49,7 @@
 
 \s5
 \c 2
+\p
 \q1
 \v 1 Why do the leaders of nations rage against Yahweh?
 \q2 Why do people plan to rebel against him, even though it is in vain?
@@ -110,7 +110,8 @@
 
 \s5
 \c 3
-
+\d A psalm written by David when he was fleeing from his son Absalom
+\b
 \q1
 \v 1 Yahweh, I have many enemies!
 \q2 There are many people who oppose against me.
@@ -159,6 +160,7 @@
 \s5
 \c 4
 \d A psalm written by David for the choir director; a psalm to be accompanied by people playing stringed instruments
+\b
 \q1
 \v 1 God, answer me when I pray to you.
 \q2 You are the one who shows people that I am right to trust in you.
@@ -206,6 +208,7 @@
 \s5
 \c 5
 \d A psalm written by David for the choir director; a psalm to be accompanied by playing flutes
+\b
 \q1
 \v 1 Yahweh, listen to me while I pray!
 \q2 Pay attention to me when I am groaning because I am suffering very much.
@@ -272,7 +275,8 @@
 
 \s5
 \c 6
-
+\d A psalm written by David for the choir leader, to be accompanied by people playing stringed instruments
+\b
 \q1
 \v 1 Yahweh, do not correct me when you are angry with me;
 \q2 Do not punish me when you are upset.
@@ -321,7 +325,8 @@
 
 \s5
 \c 7
-
+\d A psalm that David sang to Yahweh because of a Benjaminite named Cush.
+\b
 \q1
 \v 1 Yahweh my God, I come to you to protect me.
 \q2 Rescue me, save me from all those who are pursuing me in order to harm me.
@@ -405,7 +410,8 @@
 
 \s5
 \c 8
-
+\d A psalm written by David for the choir director, to be accompanied by a stringed instrument
+\b
 \q1
 \v 1 Yahweh our Lord, people all over the world know that you are very great!
 \q2 We see your greatness every time we look towards the heavens!
@@ -447,7 +453,8 @@
 
 \s5
 \c 9
-
+\d A psalm written by David for the choir director, to be sung using the tune 'The death of my son'
+\b
 \q1
 \v 1 Yahweh, I will praise you with all of my inner being.
 \q2 I will tell others about all the wonderful things that you have done.
@@ -547,6 +554,7 @@
 
 \s5
 \c 10
+\p
 \q1
 \v 1 Yahweh, why do you keep yourself far away from us?
 \q2 Why do you not pay attention when we have troubles ?
@@ -614,7 +622,7 @@
 \b
 \q1
 \v 16 Yahweh, you are our king forever,
-\q2 and you will drive out the foreign people-groups from his land.
+\q2 and you will drive out the foreign people groups from his land.
 
 \s5
 \q1
@@ -630,7 +638,8 @@
 
 \s5
 \c 11
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 I trust that Yahweh will protect me.
 \q2 So I do not fly off to the mountains like birds do,
@@ -666,7 +675,8 @@
 
 \s5
 \c 12
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 Yahweh, help us! It seems like people who honor you are no more,
 \q2 that those who are loyal to you have all vanished.
@@ -710,7 +720,8 @@
 
 \s5
 \c 13
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 Yahweh, how long will you continue to forget about me?
 \q2 Will you hide yourself  from me forever?
@@ -744,7 +755,8 @@
 
 \s5
 \c 14
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 Only foolish people say to themselves, "There is no God!"
 \q1 People who say those things only do corrupt deeds;
@@ -788,7 +800,8 @@
 
 \s5
 \c 15
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, who are allowed to enter your Sacred Tent?
 \q2 Who are allowed to live on your sacred mountain?
@@ -820,7 +833,8 @@
 
 \s5
 \c 16
-
+\d A psalm written by David
+\b
 \q1
 \v 1 God, protect me
 \q because I go to you to keep me safe!
@@ -860,7 +874,7 @@
 
 \s5
 \q1
-\v 9 Therefore I am glad and I rejoice;
+\v 9 Therefore I am glad; I am honored to praise him,
 \q and I can rest securely.
 \q1
 \v 10 Because you, Yahweh, will not allow me to remain in the place where the dead people are,
@@ -878,7 +892,8 @@
 
 \s5
 \c 17
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, listen to me while I plead with you to act justly toward me.
 \q2 Hear me while I call out to you to help me.
@@ -955,7 +970,8 @@
 
 \s5
 \c 18
-
+\d A psalm written by God's servant David. He sang it after Yahweh had rescued him from Saul and his other enemies.
+\b
 \q1
 \v 1 Yahweh, I love you, the one who enables me to be strong.
 \b
@@ -1124,7 +1140,8 @@
 
 \s5
 \c 19
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 When people look at everything that God has placed in the skies, they can see that he is very great;
 \q2 they can see the great things that he has created.
@@ -1201,7 +1218,8 @@
 
 \s5
 \c 20
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 I desire that Yahweh may help you when you call out to him when you have troubles!
 \q1 I desire that God, whom our ancestor Jacob honored, may keep you safe from your enemies.
@@ -1251,7 +1269,7 @@
 
 \s5
 \c 21
-
+\d A psalm written by David for the choir director
 \b
 \q1
 \v 1 Yahweh, I, whom you made king, am glad because you have caused me to be strong.
@@ -1317,7 +1335,8 @@
 
 \s5
 \c 22
-
+\d A psalm written by David for the choir director, to be sung to the tune 'Doe of the Dawn'
+\b
 \q1
 \v 1 My God, my God, why have you abandoned me?
 \q2 Why do you stay so far from me,
@@ -1470,7 +1489,8 @@
 
 \s5
 \c 23
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, you care for me like a shepherd cares for his sheep,
 \q2 so I have everything that I need.
@@ -1518,7 +1538,8 @@
 
 \s5
 \c 24
-
+\d A psalm written by David
+\b
 \q1
 \v 1 The earth and everything in it belongs to Yahweh;
 \q2 all the people in the world belong to him, too,
@@ -1571,7 +1592,8 @@
 
 \s5
 \c 25
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, I give myself to you.
 \q1
@@ -1673,7 +1695,8 @@
 
 \s5
 \c 26
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, show that I am innocent.
 \q1 I always do what is right;
@@ -1728,7 +1751,8 @@
 
 \s5
 \c 27
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh is the one who gives light to my soul and the one who saves me,
 \q2 so I do not  need to be afraid of anyone.
@@ -1811,7 +1835,8 @@
 
 \s5
 \c 28
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, I call out to you;
 \q1 You are like a huge rock on top of which I am safe.
@@ -1863,7 +1888,8 @@
 
 \s5
 \c 29
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Mighty people, praise Yahweh!
 \q2 Praise him because he is very glorious and powerful.
@@ -1914,7 +1940,8 @@
 
 \s5
 \c 30
-
+\d A psalm written by David for the dedication of the temple
+\b
 \q1
 \v 1 Yahweh, I praise you because you rescued me. You did not allow me to die, or my enemies to gloat over me.
 \q1
@@ -1955,7 +1982,7 @@
 \v 11 But now you have healed me, and you have changed me from being sad to dancing joyfully.
 \q1 You have taken away the clothes that showed that I was very sad and given me clothes that showed that I was very joyful.
 \q1
-\v 12 So I will not be silent; I will sing out and praise you as the cause of my success.
+\v 12 So I will not be silent; I am honored to sing out and praise you as the cause of my success.
 \q1 Yahweh, you are my God, and I will thank you forever.
 
 
@@ -1964,7 +1991,8 @@
 
 \s5
 \c 31
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 Yahweh, I have come to you to be protected;
 \q2 do not allow me to be defeated and disgraced.
@@ -2090,7 +2118,8 @@
 
 \s5
 \c 32
-
+\d A psalm written by David, which will help people to be wise
+\b
 \q1
 \v 1 Those whom God has forgiven for rebelling against him,
 \q2 those whose sin God does not look at,
@@ -2158,6 +2187,7 @@
 
 \s5
 \c 33
+\p
 \q1
 \v 1 You righteous people should shout joyfully to Yahweh
 \q2 because that is what he deserves.
@@ -2248,7 +2278,8 @@
 
 \s5
 \c 34
-
+\d A psalm written by David when he pretended to be insane in front of King Abimelech, so that the king would send him away
+\b
 \q1
 \v 1 I will always thank Yahweh;
 \q2 I will constantly praise him.
@@ -2345,7 +2376,8 @@
 
 \s5
 \c 35
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, fight against those who fight against me!
 \q2 Fight with my enemies when they fight me!
@@ -2480,7 +2512,8 @@
 
 \s5
 \c 36
-
+\d A psalm written for the choir director by David, a man who served God faithfully
+\b
 \q1
 \v 1 A continual desire to sin is in the inner beings of wicked people.
 \q1 They consider that they have do not need to have an awesome respect for God.
@@ -2537,7 +2570,8 @@
 
 \s5
 \c 37
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Do not be bothered by what wicked people do.
 \q2 Do not desire to have the things that people who do wrong things have,
@@ -2735,7 +2769,8 @@
 
 \s5
 \c 38
-
+\d A psalm written by David, asking God not to forget him
+\b
 \q1
 \v 1 Yahweh, when you are angry with me,
 \q2 do not rebuke me and punish me!
@@ -2837,7 +2872,8 @@
 
 \s5
 \c 39
-
+\d A psalm written by David for Jeduthun, the choir director
+\b
 \q1
 \v 1 I said to myself, "I will be careful not to sin by the things that I say.
 \q1 I will not say anything to complain to you
@@ -2909,7 +2945,8 @@
 
 \s5
 \c 40
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 I waited patiently for Yahweh to help me,
 \q2 and he listened to me when I called out to him.
@@ -3008,7 +3045,8 @@
 
 \s5
 \c 41
-
+\d A psalm written by David for the choir director
+\b
 \q1
 \v 1 Yahweh is pleased with those people who help provide for the poor;
 \q2 he will rescue those people when they have troubles.
@@ -3070,13 +3108,14 @@
 
 
 
-\ms Book Two
-\s5
-\c 42
 
+\s5
+\ms Book Two
+\c 42
+\d A psalm written by one of the descendants of Korah for the choir director
+\b
 \q1
 \v 1 O God, I need you very much, like a deer needs to drink water from a cool stream.
-\q2 .
 \q1
 \v 2 I desire to be with you, the all-powerful God.
 \q2 I say to myself, "When will I be able to go back to the temple in Israel
@@ -3106,7 +3145,7 @@
 \q1
 \v 6 But now, Yahweh, I am very discouraged,
 \q2 so I think about you.
-\q1 You are there in Israel where the Jordan River rushes down from the bottom of the peaks of Mount Hermon and the mount of Mizar.
+\q1 You are there in Israel where the Jordan River rushes down from the bottom of the peaks of Mount Hermon and from Mount Mizar.
 
 \s5
 \q1
@@ -3145,6 +3184,7 @@
 \s5
 \c 43
 
+\p
 \q1
 \v 1 God, declare that I am innocent.
 \q1 Defend me when people say things against me—those people who do not honor you!
@@ -3179,7 +3219,8 @@
 
 \s5
 \c 44
-
+\d A psalm written by one of the descendants of Korah for the choir director.
+\b
 \q1
 \v 1 God, we ourselves have heard
 \q2 what our parents and grandparents told us.
@@ -3301,7 +3342,8 @@
 
 \s5
 \c 45
-
+\d A love song written by one of the descendants of Korah, for the choir director, to be sung to the tune "Lilies."
+\b
 \q1
 \v 1 In my inner being I am aroused by a beautiful message
 \q2 which will be sung to the king.
@@ -3392,7 +3434,8 @@
 
 \s5
 \c 46
-
+\d A psalm written by one of the descendants of Korah for the choir director.
+\b
 \q1
 \v 1 God is the one who protects us and causes us to be strong;
 \q2 he is always ready to help us when we have troubles.
@@ -3454,7 +3497,8 @@
 
 \s5
 \c 47
-
+\d A psalm written by one of the descendants of Korah for the choir director
+\b
 \q1
 \v 1 You people all over the world, clap your hands!
 \q2 Shout joyfully to praise God!
@@ -3464,7 +3508,7 @@
 
 \s5
 \q1
-\v 3 He enabled us to defeat the armies of the people-groups that lived in Canaan.
+\v 3 He enabled us to defeat the armies of the people groups that lived in Canaan.
 \q
 \v 4 He chose for us this land where we now live;
 \q2 we Israelite people, whom he loves, are proud that we own this land.
@@ -3489,7 +3533,7 @@
 \v 8 God sits on his sacred throne
 \q2 as he rules over the people of all ethnic groups.
 \q1
-\v 9 The rulers of those people-groups gather in front of God's people, the people descended from Abraham.
+\v 9 The rulers of those people groups gather in front of God's people, the people descended from Abraham.
 \q1 God has more power than the weapons of all the kings on the earth;
 \q2 he is great, and all people everywhere will honor him.
 
@@ -3499,7 +3543,8 @@
 
 \s5
 \c 48
-
+\d A psalm written by one of the descendants of Korah
+\b
 \q1
 \v 1 Yahweh is great, and he deserved to be greatly praised in the city where he lives,
 \q2 which is built on Zion, his sacred hill.
@@ -3567,9 +3612,10 @@
 
 \s5
 \c 49
-
+\d A psalm written by one of the descendants of Korah for the choir director.
+\b
 \q1
-\v 1 You people of all people-groups, listen!
+\v 1 You people of all people groups, listen!
 \q1 You people all over the world,
 \q2
 \v 2 important people and unimportant people,
@@ -3666,7 +3712,8 @@
 
 \s5
 \c 50
-
+\d A psalm written by Asaph
+\b
 \q1
 \v 1 God, the all-powerful one, speaks;
 \q1 he summons all people,
@@ -3775,7 +3822,8 @@
 
 \s5
 \c 51
-
+\d A psalm written by David for the choir director, concerning the time when the prophet Nathan rebuked David after he had committed adultery with Bathsheba.
+\b
 \q1
 \v 1 O God, act mercifully toward me,
 \q2 because you love me faithfully;
@@ -3868,7 +3916,8 @@
 
 \s5
 \c 52
-
+\d A psalm written by David for the choir director, when Doeg went to Saul and said, "David has gone to talk with Ahimelech, the high priest."
+\b
 \q1
 \v 1 You proud man, you think that you are strong
 \q2 and brag about the sins that you have committed,
@@ -3921,7 +3970,8 @@
 
 \s5
 \c 53
-
+\d A psalm written by David for the choir director, to be sung using a tune called "Mahalath."
+\b
 \q1
 \v 1 Only foolish people say to themselves, "There is no God!"
 \q1 People who say that are corrupt; they commit terrible sins;
@@ -3962,7 +4012,8 @@
 
 \s5
 \c 54
-
+\d A psalm written by David for the choir director, to be accompanied by stringed instruments; it was written when the people of Ziph went to Saul and told him that David was hiding in their area.
+\b
 \q1
 \v 1 God, by your power save me from my enemies,
 \q2 and show people that I have not done anything that is wrong!
@@ -3999,7 +4050,8 @@
 
 \s5
 \c 55
-
+\d A psalm written by David for the choir director, to be accompanied by stringed instruments
+\b
 \q1
 \v 1 God, listen to my prayer,
 \q2 and do not turn away from me while I am pleading with you.
@@ -4116,7 +4168,8 @@
 
 \s5
 \c 56
-
+\d A psalm written by David for the choir director, concerning the time the Philistines seized David in Gath; to be sung using the tune "Dove on distant oaks."
+\b
 \q1
 \v 1 God, act mercifully toward me because men have harassed me;
 \q2 all day my enemies pursue me.
@@ -4184,7 +4237,8 @@
 
 \s5
 \c 57
-
+\d A psalm written by David for the choir director, when David went into a cave to escape from Saul; to be sung using the tune "Do not destroy."
+\b
 \q1
 \v 1 God, act mercifully toward me!
 \q1 Act mercifully toward me because I am coming to you to protect me.
@@ -4230,7 +4284,7 @@
 \q1 I will sing to you,
 \q2 and I will praise you while I sing.
 \q1
-\v 8 I will awaken myself;
+\v 8 It is an honor to wake up and praise him.
 \q2 I will arise before the sun rises
 \q2 and praise you while I play my big harp or my lyre.
 \b
@@ -4238,7 +4292,7 @@
 \s5
 \q1
 \v 9 Lord, I will thank you among all the people;
-\q1 and I will sing to praise you among many people-groups,
+\q1 and I will sing to praise you among many people groups,
 \q2
 \v 10 because your faithful love for us is as great as the distance from the earth to the sky,
 \q2 and because your faithfulness.
@@ -4253,7 +4307,8 @@
 
 \s5
 \c 58
-
+\d A psalm written by David for the choir director, to be sung using the tune "Do not destroy."
+\b
 \q1
 \v 1 When you mighty men speak, you never say what is right;
 \q2 you never decide things about people justly!
@@ -4303,7 +4358,8 @@
 
 \s5
 \c 59
-
+\d A psalm written by David for the choir director, when Saul, wanting to kill David, sent men to watch David's house.
+\b
 \q1
 \v 1 God, save me from my enemies!
 \q2 Protect me from those who want to attack me!
@@ -4396,7 +4452,8 @@
 
 \s5
 \c 60
-
+\d A psalm written by David for the choir director, a psalm for teaching, to be sung using the tune "Lily of the promise." David wrote it during the wars in northern Syria, and when Joab's army, after returning from the battle, killed twelve thousand of the Edom people-group in Salt Valley.
+\b
 \q1
 \v 1 I prayed, "God, you have rejected us Israelites!
 \q1 Because you have been angry with us,
@@ -4462,7 +4519,8 @@
 
 \s5
 \c 61
-
+\d A psalm written by David for the choir director, to be accompanied by musical instruments.
+\b
 \q1
 \v 1 God, listen to me,
 \q2 and answer my prayer .
@@ -4509,7 +4567,8 @@
 
 \s5
 \c 62
-
+\d A psalm written by David for Jeduthun, the choir leader
+\b
 \q1
 \v 1 God is the only one who can give me peace in my inner being,
 \q2 and he is the one who saves me from my enemies.
@@ -4573,7 +4632,8 @@
 
 \s5
 \c 63
-
+\d A psalm written by David when he was in the wilderness in Judah.
+\b
 \q1
 \v 1 God, you are the God whom I worship.
 \q1 I greatly desire to be with you
@@ -4631,7 +4691,8 @@
 
 \s5
 \c 64
-
+\d A psalm written by David for the choir director.
+\b
 \q1
 \v 1 God, listen to me as I tell you the things that I am worried about.
 \q2 I am afraid of my enemies; please save me from them.
@@ -4684,7 +4745,8 @@
 
 \s5
 \c 65
-
+\d A psalm written by David for the choir director.
+\b
 \q1
 \v 1 God, it is right for us to praise you in Jerusalem,
 \q1 and to do what we have promised you that we would do,
@@ -4756,7 +4818,8 @@
 
 \s5
 \c 66
-
+\d A psalm that is a song for the choir director.
+\b
 \q1
 \v 1 Tell everyone on the earth
 \q2 that they should sing joyfully to praise God!
@@ -4781,7 +4844,7 @@
 \v 5 Come and think about what God has done!
 \q1 Think about the awesome things that he has done among people.
 \q1
-\v 6 He caused the Red Sea to become dry land,
+\v 6 He caused the sea to become dry land,
 \q2 with the result that our ancestors were able to walk right through it.
 \q1 There we rejoiced because of what he had done.
 \q1
@@ -4854,7 +4917,8 @@
 
 \s5
 \c 67
-
+\d A psalm for the choir director, to be accompanied by stringed instruments.
+\b
 \q1
 \v 1 God, act mercifully toward us and bless us;
 \q1 act kindly toward us.
@@ -4866,17 +4930,17 @@
 
 \s5
 \q1
-\v 3 God, I desire that all people-groups may praise you;
+\v 3 God, I desire that all people groups may praise you;
 \q1 I want them all to praise you!
 \q1
 \v 4 I desire that the people of all nations will be glad and sing joyfully,
-\q2 because you judge the people-groups equally,
+\q2 because you judge the people groups equally,
 \q2 and you guide all the nations in the world.
 
 
 \s5
 \q1
-\v 5 God, I desire that the people-groups may praise you;
+\v 5 God, I desire that the people groups may praise you;
 \q1 I want them all to praise you!
 \b
 \q1
@@ -4894,7 +4958,8 @@
 
 \s5
 \c 68
-
+\d A psalm written by David for the choir director.
+\b
 \q1
 \v 1 God, arise and scatter your enemies,
 \q1 and cause those who hate you to run away from you.
@@ -5071,7 +5136,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 69
-
+\d A psalm written by David for the choir director.
+\b
 \q1
 \v 1 O God, save me,
 \q2 because I am in great danger.
@@ -5218,7 +5284,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 and I will honor him by thanking him.
 \q1
 \v 31 My doing that will please Yahweh more than sacrificing oxen,
-\q2 more than offering him full-grown bulls.
+\q2 more than offering him full grown bulls.
 
 \s5
 \q1
@@ -5248,7 +5314,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 70
-
+\d A psalm written by David for the choir director, asking God to help David.
+\b
 \q1
 \v 1 God, please save me!
 \q2 Yahweh, come quickly to help me!
@@ -5277,6 +5344,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 71
+\p
 \q1
 \v 1 Yahweh, I have come to you to be safe;
 \q2 never allow me to become ashamed.
@@ -5392,7 +5460,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \c 72
 \d A psalm written by Solomon.
-
+\b
 \q1
 \v 1 O God, enable the king whom you appointed in Israel to rule justly.
 \q2 Show him how to judge matters fairly
@@ -5482,7 +5550,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 Amen! May it be so!
 \b
 \q1
-\v 20 This is the end of t prayers written by David, the son of Jesse.
+\v 20 This is the end of the prayers written by David son of Jesse.
 
 
 
@@ -5491,7 +5559,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 73
-
+\d A psalm written by Asaph
+\b
 \q1
 \v 1 God truly is good to us Israelite people,
 \q2 to those who with all their inner being want to do all that he desires.
@@ -5616,7 +5685,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 74
-
+\d A psalm written by Asaph
+\b
 \q1
 \v 1 God, why have you abandoned us?
 \q2 Will you keep rejecting us forever?
@@ -5667,7 +5737,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 12 God, you have been our king during all the years since we came out of Egypt,
 \q1 and you have enabled us to defeat our enemies in the land of Israel.
 \q1
-\v 13 By your power you caused the Red Sea to divide;
+\v 13 By your power you caused the sea to divide;
 \q2 it was as though you had smashed the heads of the rulers of Egypt who were like huge sea dragons.
 
 \s5
@@ -5718,7 +5788,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 75
-
+\d A psalm written by Asaph for the choir director, to be sung using the tune 'Do not destroy'
+\b
 \q1
 \v 1 We give thanks to you;
 \q2 our God, we thank you.
@@ -5772,7 +5843,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 76
-
+\d A psalm written by Asaph for the choir director, to be accompanied by stringed instruments
+\b
 \q1
 \v 1 God has made the people in Judah to know him;
 \q1 the Israelite people honor him.
@@ -5821,7 +5893,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \q1
 \v 11 So give to Yahweh the offerings that you promised to give to him;
-\q2 all the people of nearby people-groups should also bring gifts to him, the one who is awesome.
+\q2 all the people of nearby people groups should also bring gifts to him, the one who is awesome.
 \q1
 \v 12 He humbles the leaders,
 \q2 and terrifies all the kings.
@@ -5832,7 +5904,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 77
-
+\d A psalm written by Asaph for Jeduthun, the choir director
+\b
 \q1
 \v 1 I will cry out to God;
 \q1 I will cry aloud to him, and he will listen to me.
@@ -5894,7 +5967,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 there is certainly no god who is great like you are!
 \q1
 \v 14 You are God, the one who performs miracles;
-\q2 you showed to the people of many people-groups that you are powerful.
+\q2 you showed to the people of many people groups that you are powerful.
 \q1
 \v 15 By your power you rescued your people from Egypt;
 \q2 you saved those who were descendants of Jacob and his son Joseph.
@@ -5903,7 +5976,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 16 It was as though the waters of the Red Sea saw you and became very afraid,
+\v 16 It was as though the waters saw you and became very afraid,
 \q2 and even the deepest part of the water shook.
 \q
 \v 17 Rain poured down from the clouds;
@@ -5930,7 +6003,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 78
-
+\d A psalm written by Asaph
+\b
 \q1
 \v 1 My friends, listen to what I am going to teach you;
 \q2 pay careful attention to what I will say.
@@ -5985,7 +6059,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 12 While our ancestors were watching,
 \q1 God performed miracles in the area around the city of Zoan in Egypt.
 \q1
-\v 13 Then he caused the Red Sea to divide,
+\v 13 Then he caused the Sea of Reeds to divide,
 \q2 causing the water on each side to pile up like a wall,
 \q2 with the result that our ancestors walked through it on dry ground.
 \q1
@@ -6160,7 +6234,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 to Mount Zion,
 \q2 and by his power he enabled them to conquer the people who were living there.
 \q1
-\v 55 He expelled the people-groups while his people were advancing;
+\v 55 He expelled the people groups while his people were advancing;
 \q2 he assigned part of the land for each tribe to possess,
 \q2 and he gave the houses of those people to the Israelites.
 \b
@@ -6241,9 +6315,10 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 79
-
+\d A psalm written by Asaph
+\b
 \q1
-\v 1 God, other people-groups have invaded your own land.
+\v 1 God, other people groups have invaded your own land.
 \q2 They have desecrated your temple,
 \q1 and they have destroyed all the buildings in Jerusalem.
 \q1
@@ -6257,7 +6332,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 4 The people-groups that live in countries that surround our land insult us;
+\v 4 The people groups that live in countries that surround our land insult us;
 \q2 they laugh at us and mock us.
 \b
 \q1
@@ -6268,7 +6343,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \q1
 \v 6 Instead of being angry with us,
-\q2 be angry with the people-groups that do not know you!
+\q2 be angry with the people groups that do not know you!
 \q1 Be angry with kingdoms whose people do not pray to you,
 \q2
 \v 7 because they have killed Israelite people
@@ -6288,7 +6363,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 10 It is not right that  the other people-groups say about us,
+\v 10 It is not right that  the other people groups say about us,
 \q2 "If their God is very powerful, why does he not help them?"
 \q1 Allow us to see you punishing the people of other nations in return for their shedding our blood
 \q1 and killing many of us, your people.
@@ -6311,7 +6386,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 80
-
+\d A psalm written by Asaph for the choir director, to be sung using the tune 'Lilies of the covenant'
+\b
 \q1
 \v 1 Yahweh, you who lead us like a shepherd leads his flock of sheep,
 \q1 listen to us Israelite people.
@@ -6333,7 +6409,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q1
 \v 5 It is as though the only food and drink that you have given us is a cup full of our tears!
 \q1
-\v 6 You have allowed the people-groups that surround us to argue with each other to decide which part of our land each of them will take;
+\v 6 You have allowed the people groups that surround us to argue with each other to decide which part of our land each of them will take;
 \q2 they laugh at us.
 \b
 
@@ -6345,7 +6421,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \b
 \q1
 \v 8 Our ancestors were like a grapevine that you brought out of Egypt;
-\q1 you drove out the other people-groups from this land,
+\q1 you drove out the other people groups from this land,
 \q2 and you put your people in their land.
 
 \s5
@@ -6403,7 +6479,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 81
-
+\d A psalm written by Asaph for the choir director
+\b
 \q1
 \v 1 Sing songs to praise God, who enables us to be strong when we fight our enemies;
 \q1 shout joyfully to God, whom we descendants of Jacob worship!
@@ -6480,7 +6557,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 82
-
+\d A psalm written by Asaph
+\b
 \q1
 \v 1 God stands in heaven in a meeting of all the spirits whom he has placed in charge of what he created.
 \q2 He tells them that he has decided this:
@@ -6517,7 +6595,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \q1
 \v 8 God, arise and judge everyone on the earth,
-\q2 because all the people-groups belong to you!
+\q2 because all the people groups belong to you!
 
 
 
@@ -6525,7 +6603,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 83
-
+\d A psalm which is a song written by Asaph
+\b
 \q1
 \v 1 God, do not continue to be silent!
 \q1 Do not be quiet and say nothing,
@@ -6542,27 +6621,25 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 with the result that no one will remember that Israel ever existed!"
 \q1
 \v 5 They have agreed on what they want to do to destroy Israel,
-\q2 and they have agreed to attack you together.
+\q2 and they have agreed to attack you together—
 
 \s5
 \q1
-\v 6 The people who have done that are the people of Edom region,
-\q2 and the descendants of Ishmael who live on the east side of the Jordan River,
-\q2 and the Moab people-group, and the descendants of Hagar who also live on the east side of the Jordan River,
-\q2
-\v 7 the Gebal people-group, and the Ammon people-group, and the Amalek people-group,
-\q2 and the Philistia people-group, and the people of the city of Tyre.
+\v 6 —the people who live in the tents of Edom— 
+\q2 the Ishmaelites, Moab and the Hagrites, they conspire together with 
+\v 7 the people of Gebal, and the Ammonites, and the Amalekites,
+\q2 and the Philistines, and the people of the city of Tyre.
 
 \s5
 \q2
 \v 8 The people of Assyria have joined them;
-\q2 they are strong allies of the Moab and Ammon people-groups, who are descendants of Abraham's nephew Lot.
+\q2 they are strong allies of the Moab and Ammon people groups, who are descendants of Abraham's nephew Lot.
 
 \b
 
 \s5
 \q1
-\v 9 God, do to those people things like you did to the Midian people-group,
+\v 9 God, do to those people things like you did to the Midian people group,
 \q2 like you did to Sisera and Jabin at the Kishon River.
 \q1
 \v 10 You destroyed them at the town of Endor,
@@ -6606,7 +6683,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 84
-
+\d A psalm written by one of the descendants of Korah for the choir director
+\b
 \q1
 \v 1 Yahweh, you who are the commander of the angel armies,
 \q2 your temple is very beautiful!
@@ -6620,7 +6698,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q1
 \v 3 Even sparrows and swallows have built nests near your temple ;
 \q2 they take care of their young babies near the altars where people offer sacrifices to you,
-\q2 who are the commander of the angel armies, and my king and my God.
+\q2 who are the Commander of the angel armies, and my King and my God.
 \q1
 \v 4 Happy are in your temple,
 \q2 constantly singing to praise you.
@@ -6671,7 +6749,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 85
-
+\d A psalm written by one of the descendants of Korah for the choir director
+\b
 \q1
 \v 1 Yahweh, you have acted kindly toward us people who live in this land;
 \q1 you have enabled us Israelite people to become prosperous again.
@@ -6733,7 +6812,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 86
-
+\d A prayer written by David
+\b
 \q1
 \v 1 Yahweh, listen to what I say and answer me,
 \q2 because I am weak and needy.
@@ -6815,7 +6895,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 87
-
+\d A psalm written by one of the descendants of Korah
+\b
 \q1
 \v 1 The city that Yahweh established is on his sacred hills.
 \q1
@@ -6856,7 +6937,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 88
-
+\d A psalm that expresses sadness, written for the choir director by Zerah's son Heman, one of the descendants of Korah
+\b
 \q1
 \v 1 Yahweh God, you who rescue me, all during each day I call out to you to help me,
 \q1 and I cry out to you during each night also.
@@ -6948,7 +7030,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 89
-
+\d A song written by Ethan, from the clan of Ezra
+\b
 \q1
 \v 1 Yahweh, I will sing forever about the ways you faithfully love me;
 \q2 people not yet born will hear that you faithfully do all that you have promised.
@@ -7173,7 +7256,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 90
-
+\d A prayer by the prophet Moses
 \b
 \q1
 \v 1 Lord, you have always been like a home for us.
@@ -7257,6 +7340,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 91
+\p
 \q1
 \v 1 Those who live under the protection of God Almighty,
 \q2 will be able to rest safely under his care.
@@ -7332,7 +7416,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 92
-
+\d A psalm that is to be sung on sabbath days.
+\b
 \q1
 \v 1 Yahweh, it is good for people to thank you
 \q2 and to sing to praise you who are greater than any other god.
@@ -7402,6 +7487,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 93
+\p
 \q1
 \v 1 Yahweh, you have become the King!
 \q2 The majesty and the power that you have are like  robes that a king wears.
@@ -7433,6 +7519,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 94
+\p
 \q1
 \v 1 Yahweh, you are able to get revenge on your enemies.
 \q2 So show them that you are going to punish them!
@@ -7539,6 +7626,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 95
+\p
 \q1
 \v 1 Come, sing to Yahweh;
 \q2 sing joyfully to the one who protects us  and saves us!
@@ -7593,6 +7681,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 96
+\p
 \q1
 \v 1 Sing to Yahweh a new song!
 \q1 You people throughout the earth, sing to Yahweh!
@@ -7602,8 +7691,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 3 Tell about his glory to all people-groups;
-\q2 tell all people-groups the marvelous things that he has done.
+\v 3 Tell about his glory to all people groups;
+\q2 tell all people groups the marvelous things that he has done.
 \b
 \q1
 \v 4 Yahweh is great, and he deserves to be praised very much;
@@ -7611,7 +7700,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 5 All the gods the other people-groups worship are only idols,
+\v 5 All the gods the other people groups worship are only idols,
 \q2 but Yahweh is truly great; he created the skies!
 \q1
 \v 6 Those who are in his presence honor him and can see that he is a great king.
@@ -7633,9 +7722,9 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 because he is majestic and holy.
 \b
 \q1
-\v 10 Say to all the people-groups, "Yahweh is the king!
+\v 10 Say to all the people groups, "Yahweh is the king!
 \q2 He put the world in its place, and nothing will ever be able to move it.
-\q1 He will judge all the people-groups fairly."
+\q1 He will judge all the people groups fairly."
 
 \s5
 \q1
@@ -7655,6 +7744,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 97
+\p
 \q1
 \v 1 Yahweh is the king!
 \q2 I want everyone on the earth to be glad,
@@ -7678,7 +7768,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \q1
 \v 6 The angels in heaven proclaim that he acts righteously,
-\q2 and all the people-groups see his glory.
+\q2 and all the people groups see his glory.
 \b
 \q1
 \v 7 Everyone who worships idols should be ashamed;
@@ -7692,7 +7782,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 9 Yahweh is the supreme king over all the earth;
+\v 9 Yahweh is the supreme King over all the earth;
 \q2 he has very great power, and none of the other gods have any power.
 \b
 \q1
@@ -7714,7 +7804,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 98
-
+\d A psalm.
+\b
 \q1
 \v 1 Sing to Yahweh a new song
 \q1 because he has done wonderful things!
@@ -7753,7 +7844,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 and that the hills were singing together joyfully in front of Yahweh,
 \q1
 \v 9 because he will come to judge everyone on  the earth!
-\q2 He will judge all the people-groups in the world justly and fairly.
+\q2 He will judge all the people groups in the world justly and fairly.
 
 
 
@@ -7761,14 +7852,15 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 99
+\p
 \q1
 \v 1 Yahweh is the supreme king,
-\q1 so all the people-groups should tremble in his presence!
+\q1 so all the people groups should tremble in his presence!
 \q1 He sits on his throne in the temple above the statues of winged creatures,
 \q2 so the earth should quake!
 \q1
 \v 2 Yahweh is a mighty king in Jerusalem;
-\q2 he is also the supreme ruler of all the people-groups.
+\q2 he is also the supreme ruler of all the people groups.
 \q2
 \v 3 So they should praise him because he is very great;
 \q2 he is holy!
@@ -7813,7 +7905,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 100
-
+\d A psalm of thanksgiving
+\b
 \q1
 \v 1 Everyone in the world should shout joyfully to Yahweh!
 \q2
@@ -7844,7 +7937,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 101
-
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, I will sing to you!
 \q1 I will sing about your faithful and just loyalty to us.
@@ -7892,7 +7986,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 102
-
+\d A prayer written by someone who was afflicted, when he was discouraged and pleaded for Yahweh to help.
+\b
 \q1
 \v 1 Yahweh, listen to what I am praying;
 \q1 hear me while I cry out to you!
@@ -7988,7 +8083,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q1
 \v 21 As a result, people in Jerusalem will praise you  for what you have done.
 \q2
-\v 22 And many people from other people-groups and those who are citizens of other kingdoms will gather to worship you.
+\v 22 And many people from other people groups and those who are citizens of other kingdoms will gather to worship you.
 \b
 
 \s5
@@ -8025,7 +8120,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 103
-
+\d A psalm written by David.
+\b
 \q1
 \v 1 I tell myself that I should praise Yahweh.
 \q2 I will praise him, because he is holy.
@@ -8119,6 +8215,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 104
+\p
 \q1
 \v 1 I tell myself that I should praise Yahweh.
 \q1 Yahweh, my God, you are very great!
@@ -8284,6 +8381,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 105
+\p
 \q1
 \v 1 Give thanks to Yahweh; tell others that he is very great!
 \q2 Tell everyone in the world what he has done!
@@ -8451,7 +8549,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 43 So his people were joyful as he brought them out from Egypt;
 \q2 these people whom he had chosen were shouting joyfully as they went.
 \q1
-\v 44 He gave to them the land that belonged to the people-groups that lived there in Canaan,
+\v 44 He gave to them the land that belonged to the people groups that lived there in Canaan,
 \q2 and the Israelites took all their wealth.
 \q1
 \v 45 Yahweh did all these things
@@ -8465,6 +8563,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 106
+\p
 \q1
 \v 1 Praise Yahweh!
 \q1 Praise Yahweh, because he does good things for us;
@@ -8496,7 +8595,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 7 When our ancestors were in Egypt,
 \q2 they did not pay attention to the wonderful things that Yahweh did;
 \q2 they forgot about the many times that he showed that he faithfully loved them.
-\q1 Instead, when they were at the Red Sea,
+\q1 Instead, when they were at the Sea of Reeds,
 \q2 they rebelled against God, who is greater than any other god.
 
 \s5
@@ -8504,7 +8603,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 8 But he rescued them for the sake of his own reputation
 \q2 in order that he could show that he is very powerful.
 \q1
-\v 9 He rebuked the Red Sea and it became dry,
+\v 9 He rebuked the Sea of Reeds and it became dry,
 \q2 and then while he led our ancestors,
 \q2 they walked through it as though it were as dry as a desert.
 
@@ -8512,7 +8611,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q1
 \v 10 In that way he rescued them from the power  of their enemies.
 \q1
-\v 11 Then their enemies were drowned in the water of the Red Sea;
+\v 11 Then their enemies were drowned in the water of the Sea of Reeds
+;
 \q2 not one of them was left.
 \q1
 \v 12 When that happened, our ancestors believed that Yahweh had truly done for them what he had promised to do,
@@ -8556,7 +8656,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \q1
 \v 22 They forgot about the wonderful things that he did for them in Egypt
-\q2 and the amazing things that he did for them at the Red Sea.
+\q2 and the amazing things that he did for them at the Sea of Reeds.
 \q1
 \v 23 Because of that, God said that he would get rid of the Israelites,
 \q2 but Moses, whom God had chosen to serve him, stood up to persuade God not to do that.
@@ -8576,7 +8676,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 26 So he solemnly told them
 \q2 that he would cause them to die there in the wilderness,
 \q2
-\v 27 and that he would scatter their descendants among the people of other nations-groups who did not believe in him,
+\v 27 and that he would scatter their descendants among the people of other nations and groups who did not believe in him,
 \q2 and that he would allow them to die in those lands.
 \b
 
@@ -8606,10 +8706,10 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 and he said things that were foolish.
 \b
 \q1
-\v 34 Our ancestors did not destroy the other people-groups
+\v 34 Our ancestors did not destroy the other people groups
 \q2 like he told them to do.
 \q1
-\v 35 Instead, the men took women from those people-groups,
+\v 35 Instead, the men took women from those people groups,
 \q2 and they started to do the evil things that those people did.
 \q1
 \v 36 Our ancestors worshiped the idols of those people,
@@ -8633,7 +8733,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 40 So Yahweh became very angry with his people;
 \q2 he was completely disgusted with them.
 \q1
-\v 41 As a result, he allowed people-groups who did not believe in him to conquer them,
+\v 41 As a result, he allowed people groups who did not believe in him to conquer them,
 \q2 so those who hated our ancestors started to rule over them.
 
 \s5
@@ -8661,7 +8761,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \s5
 \q1
 \v 47 Yahweh our God, rescue us
-\q1 and bring us back to Israel from among those people-groups
+\q1 and bring us back to Israel from among those people groups
 \q2 in order that we may thank you 
 \q2 and joyfully praise you.
 \b
@@ -8679,6 +8779,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 107
+\p
 \q1
 \v 1 Give thanks to Yahweh, because he always does good things for us!
 \q2 His faithful love for us lasts forever, as he has promised us!
@@ -8855,18 +8956,19 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 108
-
+\d A psalm written by David
+\b
 \q1
 \v 1 God, I am very confident in you.
 \q1 I will sing to praise you.
-\q2 I will awaken myself.
+\q2 It is an honor to wake up and praise you.
 \q1
 \v 2 I will arise before the sun rises,
 \q2 and I will praise you while I play my big harp and my lyre.
 
 \s5
 \q1
-\v 3 I prayed, "Yahweh, I will thank you among all the people-groups;
+\v 3 I prayed, "Yahweh, I will thank you among all the people groups;
 \q2 I will sing to praise you among the nations,
 \q1
 \v 4 because your faithful love for us reaches up to the heavens,
@@ -8917,7 +9019,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 109
-
+\d A psalm written by David for the choir director.
+\b
 \q1
 \v 1 God, you are the one whom I praise,
 \q1 so please answer my prayer,
@@ -9056,7 +9159,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 110
-
+\d A psalm written by David.
+\b
 \q1
 \v 1 Yahweh said to my lord the king,
 \q1 "Sit here, close to me, in the place of highest honor 
@@ -9104,6 +9208,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 111
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
@@ -9127,7 +9232,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 5 He provides food for those who have an awesome respect for him;
 \q2 he never forgets the covenant that he made with our ancestors.
 \q1
-\v 6 By enabling his people to capture the lands that belonged to other people-groups,
+\v 6 By enabling his people to capture the lands that belonged to other people groups,
 \q1 he has shown to us, his people, that he is very powerful.
 
 \s5
@@ -9155,6 +9260,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 112
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
@@ -9178,8 +9284,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 6 Righteous people will not be overwhelmed because of their troubles,
-\q2 and they will never be forgotten by other people.
+\v 6 Righteous people will not be overwhelmed because of their troubles;
+\q2 other people will always treasure their memories of them
 \q1
 \v 7 They are not afraid when they receive bad news;
 \q2 they confidently trust in Yahweh.
@@ -9207,6 +9313,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 113
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
@@ -9253,6 +9360,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 114
+\p
 \q1
 \v 1 When the Israelite people left Egypt,
 \q1 when the descendants of Jacob left people who spoke a foreign language,
@@ -9263,19 +9371,19 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 3 When they came to the Red Sea,
+\v 3 When they came to the Sea of Reeds,
 \q1 it was as though the water saw them and ran away!
 \q1 When they came to the Jordan River,
 \q2 that water in the river stopped flowing so that the Israelites could cross it.
 \q1
-\v 4 When they came to Sinai Mountain and there was a big earthquake,
+\v 4 When they came to Mount Sinai and there was a big earthquake,
 \q2 it was as though the mountains skipped like goats
 \q2 and the hills jumped around like lambs.
 \b
 
 \s5
 \q1
-\v 5 If someone asks, "What happened at the Red Sea that caused the water to run away?
+\v 5 If someone asks, "What happened at the Sea of Reeds that caused the water to run away?
 \q1 What happened that caused the water in the Jordan River stop flowing?
 \q1
 \v 6 What happened that caused the mountains to skip like goats
@@ -9294,13 +9402,15 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 115
+\d A psalm written by David
+\b
 \q1
 \v 1 Yahweh, people should praise you alone;
 \q2 they must praise you, not us,
 \q2 because you faithfully love us and always do what you have promised to do.
 \b
 \q1
-\v 2 It is not right that other people-groups should say about us,
+\v 2 It is not right that other people groups should say about us,
 \q1 "They claim that their God is very powerful,
 \q2 but if that is true, why does he not help them?"
 
@@ -9380,6 +9490,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 116
+\p
 \q1
 \v 1 I love Yahweh
 \q2 because he hears me when I cry to him for him to help me.
@@ -9467,9 +9578,10 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 117
+\p
 \q1
 \v 1 You people of all nations, praise Yahweh!
-\q1 All you people-groups, praise him,
+\q1 All you people groups, praise him,
 \q2
 \v 2 because he faithfully love us very much, as he promised to do,
 \q2 and he will forever do for us what he promised that he would do.
@@ -9482,6 +9594,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 118
+\p
 \q1
 \v 1 Tell Yahweh that you thank him very much for the good things that he has done for you!
 \q2 He faithfully loves us, his people, forever.
@@ -9616,6 +9729,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 119
+\p
 \q1
 \v 1 Yahweh is pleased with those about whom no one can say truthfully that they have done things that are wrong,
 \q1 those who always obey the laws of Yahweh.
@@ -10353,7 +10467,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 120
-
+\d A psalm written for people going up to the temple to worship
+\b
 \q1
 \v 1 When I was distressed, I called out to Yahweh
 \q2 and he answered me.
@@ -10387,7 +10502,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 121
-
+\d A psalm written for people going up to the temple to worship
+\b
 \q1
 \v 1 When we travel toward Jerusalem,
 \q2 I look up toward the hills and I ask myself, "Who will help me?"
@@ -10428,7 +10544,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 122
-
+\d A psalm written by David for people going up to the temple to worship.
+\b
 \q1
 \v 1 I was glad when people said to me,
 \q2 "We should go to the temple of Yahweh in Jerusalem!"
@@ -10471,7 +10588,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 123
-
+\d A psalm written for people going up to the temple to worship
+\b
 \q1
 \v 1 Yahweh, I look up toward you,
 \q2 up to heaven, from where you rule.
@@ -10496,7 +10614,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 124
-
+\d A psalm written by David for people going up to the temple to worship.
+\b
 \q1
 \v 1 You Israelite people, answer this question:
 \q1 What would have happened to us if Yahweh had not been helping us?
@@ -10535,7 +10654,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 125
-
+\d A psalm written for people going up to the temple to worship.
+\b
 \q1
 \v 1 Those who trust in Yahweh are like Mount Zion,
 \q2 which cannot be shaken, never be moved out of its place.
@@ -10555,7 +10675,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 and to those who sincerely obey your commands.
 \q1
 \v 5 But when you punish the Israelites who no longer obey you,
-\q2 you will punish them the same as you punish those of the other people-groups!
+\q2 you will punish them the same as you punish those of the other people groups!
 \b
 \q1 I wish that things may go well for people in Israel!
 
@@ -10565,7 +10685,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 126
-
+\d A psalm written for people going up to the temple to worship.
+\b
 \q1
 \v 1 When Yahweh brought us Israelite people back to Jerusalem,
 \q1 it was wonderful;
@@ -10575,7 +10696,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q1
 \v 2 We were extremely happy,
 \q1 and we continued shouting joyfully.
-\q1 Then the other people-groups said about us,
+\q1 Then the other people groups said about us,
 \q2 "Yahweh has done great things for them!"
 \q1
 \v 3 And we said, "Yes, Yahweh truly has done great things for us,
@@ -10599,7 +10720,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 127
-
+\d A psalm written by Solomon for people going up to the temple to worship.
+\b
 \q1
 \v 1 If people are building a house without Yahweh helping them,
 \q2 they are building it in vain.
@@ -10631,7 +10753,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 128
-
+\d A psalm written for those going up to the temple to worship.
+\b
 \q1
 \v 1 Happy are those of you who have an awesome respect for him
 \q2 and do what he wants you to do.
@@ -10666,7 +10789,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 129
-
+\d A psalm written for people going up to the temple to worship.
+\b
 \q1
 \v 1 I say that my enemies have afflicted me ever since I was young.
 \q1 Now I ask you, my fellow Israelites, to repeat those same words:
@@ -10703,7 +10827,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 130
-
+\d A psalm written for people going up to the temple to worship.
+\b
 \q1
 \v 1 Yahweh, I have great troubles, so I call out to you.
 \q1
@@ -10744,7 +10869,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 131
-
+\d A psalm written by David for people going up to the temple to worship.
+\b
 \q1
 \v 1 Yahweh, I am not proud,
 \q2 and I have not thought highly about myself.
@@ -10766,7 +10892,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 132
-
+\d A song to sing along the road up to Jerusalem.
+\b
 \q1
 \v 1 Yahweh, do not forget King David
 \q2 and all the hardships he endured!
@@ -10851,7 +10978,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 133
-
+\d A psalm written for people going up to the temple to worship.
+\b
 \q1
 \v 1 It is very good and very pleasant
 \q2 for God's people to gather together in peace.
@@ -10873,7 +11001,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 134
-
+\d A psalm written for people going up to the temple to worship.
+\b
 \q1
 \v 1 All you people who serve Yahweh,
 \q2 who stand up and serve him at night in his temple,
@@ -10894,6 +11023,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 135
+\p
 \q1
 \v 1 Praise Yahweh!
 \q1 You who worship Yahweh,
@@ -10940,8 +11070,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 10 He destroyed many nations
 \q2 and the powerful kings who ruled them:
 \q1
-\v 11 Sihon, the king of the Amor people-group,
-\q2 and Og, the king of Bashan region,
+\v 11 Sihon, the king of the Amor people group,
+\q2 and Og, the region ruled by the king of Bashan,
 \q2 and all the other kings in the land of Canaan.
 
 \s5
@@ -10959,7 +11089,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \q2 and he acts mercifully toward us.
 \b
 \q1
-\v 15 But the idols that the other people-groups worship are only statues made of silver and gold,
+\v 15 But the idols that the other people groups worship are only statues made of silver and gold,
 \q2 things that humans have made.
 
 \s5
@@ -10993,6 +11123,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 136
+\p
 \q1
 \v 1 Thank Yahweh, because he does good things for us;
 \q2 he will love us forever, as he has promised.
@@ -11043,7 +11174,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 13 He is the one who caused the Red Sea to divide;
+\v 13 He is the one who caused the Sea of Reeds to divide;
 \q2 he will love us forever, as he has promised.
 \q1
 \v 14 He enabled the Israelite people to walk through it on dry land;
@@ -11066,7 +11197,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 \v 18 He killed kings who were famous;
 \q2 he will love us forever, as he has promised.
 \q1
-\v 19 He killed Sihon, the king of the Amor people-group;
+\v 19 He killed Sihon, the king of the Amor people group;
 \q2 he will love us forever, as he has promised.
 \q1
 \v 20 He killed Og, the king of the region of Bashan;
@@ -11102,6 +11233,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 137
+\p
 \q1
 \v 1 When we had been taken to Babylonia, far from Jerusalem,
 \q1 we sat down by the rivers there,
@@ -11131,7 +11263,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \q1
-\v 7 Yahweh, punish the people of the Edom people-group
+\v 7 Yahweh, punish the people of the Edom people group
 \q2 for what they did on the day that the army of Babylon captured Jerusalem.
 \q1 Do not forget that they said,
 \q2 "Tear down all the buildings! Destroy them completely! Leave only the foundations!"
@@ -11151,7 +11283,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 138
-
+\d A psalm written by David.
+\b
 \q1
 \v 1 Yahweh, I thank you with all my inner being.
 \q1 I sing to praise you in front of the idols of false gods to ridicule them.
@@ -11196,7 +11329,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 139
-
+\d A psalm written by David for the choir director.
+\b
 \q1
 \v 1 Yahweh, you have examined what is in my inner being,
 \q2 and you know everything about me.
@@ -11311,7 +11445,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 140
-
+\d A psalm written by David.
+\b
 \q1
 \v 1 Yahweh, rescue me from being attacked by evil men;
 \q2 and even more, keep me safe from being attacked by violent people.
@@ -11373,7 +11508,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 141
-
+\d A psalm written by David.
+\b
 \q1
 \v 1 Yahweh, I call out to you;
 \q2 please help me quickly!
@@ -11429,7 +11565,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 142
-
+\d A psalm that David prayed when he was hiding in a cave.
+\b
 \q1
 \v 1 Yahweh, I cry out to you;
 \q2 I plead that you will help me.
@@ -11474,7 +11611,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 143
-
+\d A psalm written by David.
+\b
 \q1
 \v 1 Yahweh, hear me while I pray to you!
 \q2 Because you are righteous
@@ -11546,7 +11684,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 144
-
+\d Written by David
+\b
 \q1
 \v 1 I praise Yahweh, who is like a huge rock on which I am safe!
 \q1 He trains my hands so that I can use them to fight battles;
@@ -11630,7 +11769,8 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 145
-
+\d A psalm written by David to praise God.
+\b
 \q1
 \v 1 My God and King, I will proclaim that you are very great;
 \q1 I will praise you now and forever.
@@ -11723,6 +11863,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 146
+\p
 \q1
 \v 1 Praise Yahweh.
 \b
@@ -11778,6 +11919,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 147
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
@@ -11873,6 +12015,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 148
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
@@ -11945,6 +12088,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 149
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
@@ -11992,6 +12136,7 @@ But some of the people stayed with the sheep and did not go to fight in the batt
 
 \s5
 \c 150
+\p
 \q1
 \v 1 Praise Yahweh!
 \b
