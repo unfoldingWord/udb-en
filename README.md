@@ -1,4 +1,5 @@
 # Unlocked Dynamic Bible
-More information at https://unfoldingword.org/udb/
 
-Please submit issues that are found to the issue tracker at https://github.com/Door43/udb-en/issues.
+This repository has moved to https://git.door43.org/Door43/en_udb.
+
+See https://unfoldingword.org/udb/ for the officially released versions.
